@@ -1,12 +1,17 @@
 html {
     box-sizing: border-box;
-    max-width: 1000px;
-    margin: 0 auto;
 
 }
 
 *, ::after, ::before {
     box-sizing: border-box;
+}
+
+//remove or add body class//
+
+.body {
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .container {
