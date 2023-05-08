@@ -5,6 +5,10 @@ html {
 
 }
 
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
 .container {
     padding: 20px;
     color: #66667e;
