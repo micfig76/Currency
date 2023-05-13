@@ -9,7 +9,7 @@ html {
 .form{
 
     background-color: rgba(171, 207, 224, 0.605);
-    background-image: url("/images/water.jpg");
+    background-image: url("../images/water.jpg");
     background-blend-mode: lighten;
 }
 
