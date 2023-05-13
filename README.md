@@ -1,12 +1,17 @@
 Currency Exchange Website
 
+https://github.com/micfig76/Currency
+
 Welcome to my polish zloty currency exchange website! This website allows you to convert amount in polish zloty into one of four currencies using the preloaded exchange rates.
 
 Features.
 
     Choice of currencies: Select one of four currencies you want to compare from a drop-down menu of available currencies.
+    ![Generel page view](images/viewall.png)
     Amount field: Enter the amount you want to convert.
+    ![Amount of PLN to be converted and currency type drop down-menu](images/amountcurtype.png)
     Calculate button: Click this button to display the conversion result.
+    ![Calculate button and result field](images/result.png)
     New Conversion button: Click this button to clear the form and start a new conversion.
 
 Usage
