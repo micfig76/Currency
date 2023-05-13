@@ -6,6 +6,12 @@ html {
     box-sizing: border-box;
 }
 
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .form {
 
     background-color: rgba(171, 207, 224, 0.605);
