@@ -1,6 +1,6 @@
 Currency Exchange Website
 
-https://github.com/micfig76/Currency
+https://micfig76.github.io/Currency/
 
 Welcome to my polish zloty currency exchange website! This website allows you to convert amount in polish zloty into one of four currencies using the preloaded exchange rates.
 
