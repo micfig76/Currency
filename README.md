@@ -9,7 +9,7 @@ Features.
 
     Choice of currencies: Select one of four currencies you want to compare from a drop-down menu of available 
     currencies.
-    ![Generel page view](images/viewall.png)
+    ![General page view](images/viewall.png)
     Amount field: Enter the amount you want to convert.
     ![Amount of PLN to be converted and currency type drop down-menu](images/amountcurtype.png)
     Calculate button: Click this button to display the conversion result.
